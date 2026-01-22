@@ -1,0 +1,258 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5",
+  "files": [],
+  "subMetas": {
+    "39a7f": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@39a7f",
+      "displayName": "",
+      "id": "39a7f",
+      "name": "立方体.012.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1060
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e10e4": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@e10e4",
+      "displayName": "",
+      "id": "e10e4",
+      "name": "立方体.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 220
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6af8": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@e6af8",
+      "displayName": "",
+      "id": "e6af8",
+      "name": "立方体.002.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 220
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab47a": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@ab47a",
+      "displayName": "",
+      "id": "ab47a",
+      "name": "圆环.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 112
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad717": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@ad717",
+      "displayName": "",
+      "id": "ad717",
+      "name": "圆环.001.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 112
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07d75": {
+      "importer": "gltf-mesh",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@07d75",
+      "displayName": "",
+      "id": "07d75",
+      "name": "立方体.001.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 274
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7460c35c-d982-4103-bb2b-dfe61817fff5@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c4bd": {
+      "importer": "gltf-material",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@9c4bd",
+      "displayName": "",
+      "id": "9c4bd",
+      "name": "材质.007-0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c81a": {
+      "importer": "gltf-material",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@3c81a",
+      "displayName": "",
+      "id": "3c81a",
+      "name": "材质.007-1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36fab": {
+      "importer": "gltf-scene",
+      "uuid": "7460c35c-d982-4103-bb2b-dfe61817fff5@36fab",
+      "displayName": "",
+      "id": "36fab",
+      "name": "SSD_YangNiu_牛棚_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "7460c35c-d982-4103-bb2b-dfe61817fff5@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@39a7f",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@e10e4",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@e6af8",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@ab47a",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@ad717",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@07d75"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@7d6ab"
+      ],
+      "materials": [
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@9c4bd",
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@3c81a"
+      ],
+      "scenes": [
+        "7460c35c-d982-4103-bb2b-dfe61817fff5@36fab"
+      ]
+    }
+  }
+}

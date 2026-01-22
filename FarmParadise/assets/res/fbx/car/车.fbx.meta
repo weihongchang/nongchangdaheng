@@ -1,0 +1,249 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9",
+  "files": [],
+  "subMetas": {
+    "86934": {
+      "importer": "gltf-mesh",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@86934",
+      "displayName": "",
+      "id": "86934",
+      "name": "益世界_SJCSDYSQF_警徽.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 230
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a56c9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@a56c9",
+      "displayName": "",
+      "id": "a56c9",
+      "name": "益世界_SJCSDYSQF_卡车.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1906
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8126": {
+      "importer": "gltf-mesh",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@f8126",
+      "displayName": "",
+      "id": "f8126",
+      "name": "益世界_SJCSDYSQF_轮胎.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 2328
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "876a7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@876a7",
+      "displayName": "",
+      "id": "876a7",
+      "name": "Map #7.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "873ed": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@873ed",
+      "displayName": "",
+      "id": "873ed",
+      "name": "Map #6.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "8b7bb": {
+      "importer": "texture",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@8b7bb",
+      "displayName": "",
+      "id": "8b7bb",
+      "name": "Map #7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f23af03-ae0b-4994-b042-857515f4f0c9@876a7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f23af03-ae0b-4994-b042-857515f4f0c9@873ed"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8a20": {
+      "importer": "gltf-material",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@f8a20",
+      "displayName": "",
+      "id": "f8a20",
+      "name": "Material #46.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5877": {
+      "importer": "gltf-scene",
+      "uuid": "3f23af03-ae0b-4994-b042-857515f4f0c9@e5877",
+      "displayName": "",
+      "id": "e5877",
+      "name": "车.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #7",
+        "uri": "3f23af03-ae0b-4994-b042-857515f4f0c9@876a7"
+      },
+      {
+        "name": "Map #6",
+        "uri": "3f23af03-ae0b-4994-b042-857515f4f0c9@873ed"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@a56c9",
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@86934",
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@f8126"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@8b7bb",
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@53e01"
+      ],
+      "materials": [
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@d90a4",
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@f8a20"
+      ],
+      "scenes": [
+        "3f23af03-ae0b-4994-b042-857515f4f0c9@e5877"
+      ]
+    }
+  }
+}

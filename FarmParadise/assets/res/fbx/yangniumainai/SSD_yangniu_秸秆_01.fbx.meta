@@ -1,0 +1,132 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617",
+  "files": [],
+  "subMetas": {
+    "24045": {
+      "importer": "gltf-material",
+      "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617@24045",
+      "displayName": "",
+      "id": "24045",
+      "name": "standardSurface2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "296d2": {
+      "importer": "gltf-mesh",
+      "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617@296d2",
+      "displayName": "",
+      "id": "296d2",
+      "name": "Circle_020.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 301
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "add4d": {
+      "importer": "gltf-mesh",
+      "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617@add4d",
+      "displayName": "",
+      "id": "add4d",
+      "name": "Low2_polySurface2.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1740
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8b49": {
+      "importer": "gltf-material",
+      "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617@d8b49",
+      "displayName": "",
+      "id": "d8b49",
+      "name": "standardSurface1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f52c0": {
+      "importer": "gltf-scene",
+      "uuid": "52492b72-40fc-4887-8e0e-d6fed3334617@f52c0",
+      "displayName": "",
+      "id": "f52c0",
+      "name": "SSD_yangniu_秸秆_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "52492b72-40fc-4887-8e0e-d6fed3334617@296d2",
+        "52492b72-40fc-4887-8e0e-d6fed3334617@add4d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "52492b72-40fc-4887-8e0e-d6fed3334617@24045",
+        "52492b72-40fc-4887-8e0e-d6fed3334617@d8b49"
+      ],
+      "scenes": [
+        "52492b72-40fc-4887-8e0e-d6fed3334617@f52c0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb",
+  "files": [],
+  "subMetas": {
+    "9abdc": {
+      "importer": "gltf-mesh",
+      "uuid": "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@9abdc",
+      "displayName": "",
+      "id": "9abdc",
+      "name": "网格.073.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 754
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30dec": {
+      "importer": "gltf-material",
+      "uuid": "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@30dec",
+      "displayName": "",
+      "id": "30dec",
+      "name": "01 - Default.009.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c19c": {
+      "importer": "gltf-scene",
+      "uuid": "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@7c19c",
+      "displayName": "",
+      "id": "7c19c",
+      "name": "栅栏.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@9abdc"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@30dec"
+      ],
+      "scenes": [
+        "69783e41-e1c6-4799-8fce-ac9e1f9e0ffb@7c19c"
+      ]
+    }
+  }
+}

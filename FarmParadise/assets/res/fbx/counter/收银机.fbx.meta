@@ -1,0 +1,235 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1b421c14-278c-41ad-891f-08ec294591da",
+  "files": [],
+  "subMetas": {
+    "52310": {
+      "importer": "gltf-scene",
+      "uuid": "1b421c14-278c-41ad-891f-08ec294591da@52310",
+      "displayName": "",
+      "id": "52310",
+      "name": "收银机.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf4d8": {
+      "importer": "gltf-mesh",
+      "uuid": "1b421c14-278c-41ad-891f-08ec294591da@cf4d8",
+      "displayName": "",
+      "id": "cf4d8",
+      "name": "shouyingji.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1444
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "1b421c14-278c-41ad-891f-08ec294591da@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/fbx/counter/收银机.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab7d2": {
+      "importer": "gltf-material",
+      "uuid": "1b421c14-278c-41ad-891f-08ec294591da@ab7d2",
+      "displayName": "",
+      "id": "ab7d2",
+      "name": "shouyingji1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "db://assets/res/fbx/counter/收银机.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1b421c14-278c-41ad-891f-08ec294591da@cf4d8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1b421c14-278c-41ad-891f-08ec294591da@d20e9"
+      ],
+      "materials": [
+        "1b421c14-278c-41ad-891f-08ec294591da@ab7d2"
+      ],
+      "scenes": [
+        "1b421c14-278c-41ad-891f-08ec294591da@52310"
+      ]
+    },
+    "materials": {
+      "1b421c14-278c-41ad-891f-08ec294591da@ab7d2": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "4bd88441-0505-412d-9fc5-b7a3eb54e835",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_OUTLINE_PASS": true
+          },
+          {
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "depthBias": 0.02
+          },
+          {
+            "specularIntensity": 0.1,
+            "mainTexture": {
+              "__uuid__": "90ec7656-fe08-4fc2-966d-0de69733fff9@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

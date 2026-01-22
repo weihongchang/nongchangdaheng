@@ -1,0 +1,36 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "PlayerController"
+      },
+      {
+        "index": 2,
+        "name": "PlayerCollider"
+      },
+      {
+        "index": 3,
+        "name": "animal"
+      },
+      {
+        "index": 4,
+        "name": "wall"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 16,
+      "2": 16,
+      "3": 16,
+      "4": 14
+    }
+  }
+}

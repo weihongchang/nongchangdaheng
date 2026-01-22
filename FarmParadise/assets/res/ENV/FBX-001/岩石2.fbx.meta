@@ -1,0 +1,210 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bcea3206-7679-49a5-852c-0edce01b3aca",
+  "files": [],
+  "subMetas": {
+    "24045": {
+      "importer": "gltf-material",
+      "uuid": "bcea3206-7679-49a5-852c-0edce01b3aca@24045",
+      "displayName": "",
+      "id": "24045",
+      "name": "standardSurface2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e069": {
+      "importer": "gltf-mesh",
+      "uuid": "bcea3206-7679-49a5-852c-0edce01b3aca@9e069",
+      "displayName": "",
+      "id": "9e069",
+      "name": "yanshi_02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 173
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ab6b": {
+      "importer": "gltf-scene",
+      "uuid": "bcea3206-7679-49a5-852c-0edce01b3aca@5ab6b",
+      "displayName": "",
+      "id": "5ab6b",
+      "name": "岩石2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "bcea3206-7679-49a5-852c-0edce01b3aca@9e069"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bcea3206-7679-49a5-852c-0edce01b3aca@24045"
+      ],
+      "scenes": [
+        "bcea3206-7679-49a5-852c-0edce01b3aca@5ab6b"
+      ]
+    },
+    "materials": {
+      "bcea3206-7679-49a5-852c-0edce01b3aca@24045": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "4bd88441-0505-412d-9fc5-b7a3eb54e835",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_OUTLINE_PASS": true,
+            "USE_INSTANCING": true
+          },
+          {
+            "USE_INSTANCING": true
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "lineWidth": 20,
+            "depthBias": 0.02
+          },
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 113,
+              "g": 121,
+              "b": 133,
+              "a": 255
+            },
+            "specularIntensity": 0.1
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

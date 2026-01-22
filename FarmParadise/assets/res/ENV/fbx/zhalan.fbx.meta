@@ -1,0 +1,107 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f31fdefb-36b8-4e97-a1be-7dc81eb693e6",
+  "files": [],
+  "subMetas": {
+    "502e9": {
+      "importer": "gltf-mesh",
+      "uuid": "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@502e9",
+      "displayName": "",
+      "id": "502e9",
+      "name": "muhzhuang.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "764e3": {
+      "importer": "gltf-material",
+      "uuid": "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@764e3",
+      "displayName": "",
+      "id": "764e3",
+      "name": "Default1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8e0a": {
+      "importer": "gltf-scene",
+      "uuid": "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@d8e0a",
+      "displayName": "",
+      "id": "d8e0a",
+      "name": "zhalan.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@502e9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@764e3"
+      ],
+      "scenes": [
+        "f31fdefb-36b8-4e97-a1be-7dc81eb693e6@d8e0a"
+      ]
+    },
+    "meshOptimize": {
+      "enable": true,
+      "vertexCache": true,
+      "vertexFetch": true,
+      "overdraw": true
+    },
+    "meshSimplify": {
+      "enable": true,
+      "autoErrorRate": true,
+      "lockBoundary": true
+    }
+  }
+}

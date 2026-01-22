@@ -1,0 +1,28 @@
+{
+  "name": "code-create",
+  "package_version": 2,
+  "version": "1.0.0",
+  "description": "一份简单的扩展包",
+  "author": "周浩林",
+  "main": "./main.js",
+  "contributions": {
+    "menu": [
+      {
+        "path": "Tools",
+        "label": "生成ui代码",
+        "message": "create-code"
+      }
+    ],
+    "messages": {
+      "create-code": {
+        "methods": [
+          "createCode"
+        ]
+      }
+    }
+  },
+  "creator": {
+    "version": "3.6.1"
+  },
+  "uuid": "11e001d8-dfb9-4832-a624-ea0a1873f8a8"
+}

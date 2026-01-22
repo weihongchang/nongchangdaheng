@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e3b94a3f-4b56-4e50-ae77-62410fa54fb1",
+  "files": [],
+  "subMetas": {
+    "20943": {
+      "importer": "gltf-mesh",
+      "uuid": "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@20943",
+      "displayName": "",
+      "id": "20943",
+      "name": "对象014.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 568
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83587": {
+      "importer": "gltf-scene",
+      "uuid": "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@83587",
+      "displayName": "",
+      "id": "83587",
+      "name": "zhangpeng.FBX.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@20943"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@d90a4"
+      ],
+      "scenes": [
+        "e3b94a3f-4b56-4e50-ae77-62410fa54fb1@83587"
+      ]
+    }
+  }
+}
